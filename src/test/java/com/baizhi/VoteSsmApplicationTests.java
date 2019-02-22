@@ -1,4 +1,4 @@
-package com.baizhi.votessm;
+package com.baizhi;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
