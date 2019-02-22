@@ -1,4 +1,4 @@
-package com.baizhi.votesys.dao;
+package com.baizhi.votesys.votesys.dao;
 
 import com.baizhi.votesys.entity.User;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;

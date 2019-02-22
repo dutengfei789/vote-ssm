@@ -1,4 +1,4 @@
-package com.baizhi.votesys.service;
+package com.baizhi.votesys.votesys.service;
 
 import com.baizhi.votesys.entity.User;
 
