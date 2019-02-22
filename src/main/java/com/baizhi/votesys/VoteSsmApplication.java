@@ -1,4 +1,4 @@
-package com.baizhi;
+package com.baizhi.votesys;
 
 import com.baomidou.mybatisplus.extension.plugins.PaginationInterceptor;
 import org.mybatis.spring.annotation.MapperScan;
