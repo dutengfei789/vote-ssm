@@ -1,4 +1,4 @@
-package com.baizhi.votesys.votesys.entity;
+package com.baizhi.votesys.entity;
 
 import com.baomidou.mybatisplus.annotation.IdType;
 import com.baomidou.mybatisplus.annotation.TableField;
