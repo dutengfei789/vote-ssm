@@ -6,4 +6,7 @@ package com.baizhi.votesys.dao;
  * @date: 2019/2/22
  */
 public class UserDao {
+
+
+    private int i;
 }

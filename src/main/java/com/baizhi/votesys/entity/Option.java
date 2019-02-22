@@ -9,13 +9,10 @@ import java.io.Serializable;
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
-public class User implements Serializable {
-    private String userId;
+public class Option implements Serializable {
+    private Integer voId;
 
-    private String username;
+    private String option;
 
-    private String password;
-
-    private Integer status;
-
+    private Integer order;
 }
