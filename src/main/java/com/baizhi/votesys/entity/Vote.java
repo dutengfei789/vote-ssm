@@ -9,13 +9,13 @@ import java.io.Serializable;
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
-public class User implements Serializable {
-    private String userId;
+public class Vote implements Serializable {
+    private Integer vsId;
 
-    private String username;
+    private String title;
 
-    private String password;
+    private Integer options;
 
-    private Integer status;
+    private Integer participants;
 
 }
