@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
 
 @SpringBootApplication
-@MapperScan()
+@MapperScan("com.baizhi.votesys.dao")
 public class VoteSsmApplication {
 
     public static void main(String[] args) {
