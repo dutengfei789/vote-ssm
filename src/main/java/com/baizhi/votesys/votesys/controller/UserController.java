@@ -1,4 +1,4 @@
-package com.baizhi.votesys.controller;
+package com.baizhi.votesys.votesys.controller;
 
 import org.springframework.stereotype.Controller;
 
